@@ -1,4 +1,4 @@
-# Zero-Hallucination Customer Action Pipeline
+# Zero-Hallucination Customer Action Pipeline (Deterministic AI Workflow)
 
 An enterprise-grade agentic workflow that processes customer support requests, performs deterministic policy retrieval, and uses Large Language Models (LLMs) strictly for reasoning. This architecture prevents AI hallucinations through mathematical, deterministic Python guardrails.
 
