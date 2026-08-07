@@ -15,4 +15,4 @@ __pycache__/
 # OS Generated
 .DS_Store
 Thumbs.db
-F:\AI-Projects\zero-hallucination-pipeline\data\mock_db.json
+data\mock_db.json
