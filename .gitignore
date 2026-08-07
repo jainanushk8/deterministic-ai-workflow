@@ -15,4 +15,4 @@ __pycache__/
 # OS Generated
 .DS_Store
 Thumbs.db
-mock_db.json
+data/mock_db.json
