@@ -1,0 +1,15 @@
+GLOBAL ENTERPRISE TERMS OF SERVICE & REFUND SLA
+
+Section 4: Cancellation and Refund Eligibility
+
+4.1 Digital Products and Cloud Subscriptions (SaaS)
+Customers may request a full refund for any digital product, cloud subscription, or standard software license within fourteen (14) days of the original purchase date. Requests made on day 15 or later are strictly ineligible for refunds. In such cases, the customer retains access until the end of the billing cycle, but no prorated refunds will be issued. 
+
+4.2 Physical Hardware and Enterprise Equipment
+Physical goods (e.g., Developer Keyboards, Enterprise Hardware Keys) are subject to a thirty (30) day return window. The hardware must be returned in original, undamaged condition. If the item is marked as "delivered" in the CRM, the 30-day window begins on the purchase date, not the delivery date.
+
+4.3 Non-Refundable Items
+Professional services, onboarding fees, and promotional items acquired at a zero-dollar ($0.00) cost are explicitly non-refundable. 
+
+4.4 Financial Limitations
+Under no circumstance shall a refund exceed the exact `amount_paid` by the customer. Compensatory credits, damages, or inconvenience fees are strictly prohibited. Agents must explicitly deny requests for compensation beyond the original purchase price.
