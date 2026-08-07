@@ -19,8 +19,8 @@ def load_crm_data_from_csv(file_path: str) -> Dict[str, Dict[str, Any]]:
                     "customer_email": row.get('Customer Email', 'Unknown'),
                     "product_purchased": row.get('Product Purchased', 'Unknown'),
                     "date_of_purchase": row.get('Date of Purchase', '2026-01-01'),
-                    "ticket_description": row.get('Ticket Description', ''),
-                    "amount_paid": 199.99 
+                    "ticket_description": row.get('Ticket Description', 'No description provided.'),
+                    "amount_paid": 299.99 
                 }
         return crm_db
     except FileNotFoundError:
